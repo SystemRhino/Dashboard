@@ -57,7 +57,6 @@ A plataforma centraliza informações estratégicas, permitindo controle total d
 ### 🤖 Módulo de Inteligência Artificial
 ![Dashboard do sistema](https://i.ibb.co/M55s7Gdb/Captura-de-tela-2025-11-26-215347.png)
 ![Dashboard do sistema](https://i.ibb.co/G3FG6LxW/Captura-de-tela-2025-11-26-215434.png)
-![Dashboard do sistema](https://i.ibb.co/9Hhk3jc6/Captura-de-tela-2025-11-26-215140.png)
 * Assistente inteligente integrado ao sistema
 * Capaz de:
 
