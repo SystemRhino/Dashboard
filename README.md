@@ -1,6 +1,6 @@
 ---
 
-# 🧮 MultiPrecificador – Dashboard de Precificação Inteligente
+# 🧮 MultiPrecificador – Dashboard de Precificação com IA
 
 O **MultiPrecificador** é um dashboard completo desenvolvido para simplificar e automatizar o processo de precificação de produtos em marketplaces como **Amazon, Mercado Livre e Shopee**.
 A plataforma centraliza informações estratégicas, permitindo controle total de margens, custos, códigos de barras e otimização de imagens, além de contar com um módulo de **IA assistiva** para apoio operacional e estratégico.
